@@ -1,0 +1,92 @@
+{
+  "LanguageHelloButtons": {
+    "en": "English",
+    "pl": "Polski",
+    "ua": "Українська",
+    "ru": "Русский"
+  },
+  "Languages": {
+    "English": "en",
+    "Polski": "pl",
+    "Українська": "ua",
+    "Русский": "ru"
+  },
+  "MainHello": {
+    "en": "What are you interested in? I can:\n - Send a list of bikes\n - Send a list of available cities\n - Apply for a bike rental\n - Submit a complaint",
+    "pl": "Czym się interesujesz? Mogę:\n - Wyślij listę rowerów\n - Wyślij listę dostępnych miast\n - Złóż wniosek o wypożyczenie roweru\n - Złożyć skargę",
+    "ua": "Що тебе цікавить? Я можу:\n - Надіслати список велосипедів\n - Надіслати список доступних міст\n - Подати заявку на оренду велосипеда\n - Надіслати скаргу",
+    "ru": "Что тебя интересует? Я могу:\n - Отправить список велосипедов\n - Отправить список доступных городов\n - Подать заявку на аренду велосипеда\n - Отправить жалобу"
+  },
+  "GetBikesButtons": {
+    "en": "Bikes list",
+    "pl": "Lista rowerów",
+    "ua": "Список велосипедів",
+    "ru": "Список велосипедов"
+  },
+  "GetCitiesButtons": {
+    "en": "Cities list",
+    "pl": "Lista miast",
+    "ua": "Список міст",
+    "ru": "Список городов"
+  },
+  "CreateApplicationButtons": {
+    "en": "Create application",
+    "pl": "Stworzyć aplikacje",
+    "ua": "Створити заявку",
+    "ru": "Создать заявку"
+  },
+  "CreateReportButtons": {
+    "en": "Report",
+    "pl": "Report",
+    "ua": "Репорт",
+    "ru": "Репорт"
+  },
+  "ChangeLanguageButtons": {
+    "en": "Language",
+    "pl": "Język",
+    "ua": "Мова",
+    "ru": "Язык"
+  },
+  "AdminHello": {
+    "en": "Write your password",
+    "pl": "Napisz swoje hasło",
+    "ua": "Напиши свій пароль",
+    "ru": "Напиши свой пароль"
+  },
+  "GoodAdminPassword": {
+    "en": "Good password. You are in system. Wait for announces",
+    "pl": "Dobre hasło. Jesteś w systemie. Czekaj na anonsy",
+    "ua": "Добрий пароль. Ты в системі. Чекай на анонси",
+    "ru": "Правильный пароль. Ты в системе. Жди на анонсы"
+  },
+  "BadAdminPassword": {
+    "en": "Bad password.",
+    "pl": "Złe hasło",
+    "ua": "Неправильний пароль",
+    "ru": "Неправильный пароль"
+  },
+  "CreateApplication": {
+    "en": "To create application go here: www.example.com",
+    "pl": "Żeby złożyć aplikacje, chodź tutaj: www.example.com",
+    "ua": "Щоб створити заявку, перейди на сайт: www.example.com",
+    "ru": "Чтобы оставить заявку, перейди на сайт: www.example.com"
+  },
+  "CreateReport": {
+    "en": "Write your message now",
+    "pl": "Teraz napisz powiadomienie",
+    "ua": "Тепер напишіть повідомлення",
+    "ru": "Теперь напишите сообщение"
+  },
+  "GetReport": {
+    "en": "The report has been accepted. Expect a response soon",
+    "pl": "Raport został przyjęty. Odpowiedź będzie wkrótce",
+    "ua": "Репорт прийнято. Чекайте на відповідь найближчим часом",
+    "ru": "Репорт принят. Ожидайте ответ в ближайшее время"
+  },
+  "BadAnswer": {
+    "en": "Sorry, but I dont understand you",
+    "pl": "Przepraszam, ale nie rozumiem Pana",
+    "ua": "Вибачте, але я Вас не розумiю",
+    "ru": "Извините, однако я Вас не понимаю"
+  }
+}

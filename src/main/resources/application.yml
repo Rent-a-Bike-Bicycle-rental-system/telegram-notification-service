@@ -1,0 +1,32 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/Rent-a-bike
+    username: postgres
+    password: 915239
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+
+rabbitmq:
+  queues:
+    telegram: telegramQueue
+
+telegram:
+  key: 6939761137:AAHyGjJd92BDtpaETDKHZkRUd_AYiZtLsxo
+  password: admin
+  botName: Rent_a_bike_PL_admin_bot
+
+json:
+  localization: dialogTextWithLocalization.json
+  onlyText: dialogText.json
+
+rest-api:
+  base: http://localhost:8080
+  bikes: /get_bikes
+  cities: /get_cities
